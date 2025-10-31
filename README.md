@@ -8,4 +8,7 @@ A simple inventory management system built in C using file handling, sorting, an
 - Sort using Selection Sort or qsort()
 - Save data in binary file (`Inventory.dat`)
 
-## How to Run
+1. **Compile the program:**
+   ```bash
+$ gcc inventory_management_system.c -o inventory_management_system
+$ ./inventory_management_system
