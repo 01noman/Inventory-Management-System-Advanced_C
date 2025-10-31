@@ -1,5 +1,5 @@
 # Inventory Management System (C Project)
-
+A **console-based student record management system** written in C.
 A simple inventory management system built in C using file handling, sorting, and searching operations.
 
 ## Features
