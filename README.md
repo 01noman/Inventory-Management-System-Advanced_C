@@ -10,5 +10,6 @@ A simple inventory management system built in C using file handling, sorting, an
 
 1. **Compile the program:**
    ```bash
-   gcc inventory_management_system.c -o inventory_management_system
-   ./inventory_management_system 
+   $ gcc inventory_management_system.c -o inventory_management_system
+   $ ./inventory_management_system 
+   
